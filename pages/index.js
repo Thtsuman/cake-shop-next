@@ -12,9 +12,9 @@ function Home() {
 				<h2>Cake Shop</h2>
 				<p>Created by Thtsuman</p>
 
-				<p>Tech Used: Next.js, Bootstrap, react-bootstrap</p>
+        <p>Tech Used: Next.js, Bootstrap,</p>
 
-				<h4>To Application =></h4>
+        <h4>To Application =></h4>
 				<div className="shadow rounded-lg w-50">
 					<div className="card-body">
 						<Link href="/app">App</Link>
